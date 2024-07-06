@@ -1,1 +1,1 @@
-<img width="710" alt="image" src="https://github.com/brightgeevarghese/ComposeTextStyles/assets/27910029/e16345f0-14d4-40bf-929a-3e97a0eb101d">
+<img width="695" alt="image" src="https://github.com/brightgeevarghese/ComposeTextStyles/assets/27910029/eb6f4b81-306e-41c8-b8f2-1c6ed3fa61a3">
